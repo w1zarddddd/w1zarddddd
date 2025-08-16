@@ -15,12 +15,6 @@ Telegram: @ledovskkiy
 ![](https://nirzak-streak-stats.vercel.app/?user=w1zarddddd&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=w1zarddddd&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](blob:https://gprm.itsvg.in/2220b94f-9f89-4bc5-8284-6b76533b2a1f)
-
-### ✍️ Random Dev Quote
-![](blob:https://gprm.itsvg.in/a938453d-86e2-425b-9148-e159a61aa9fc)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=w1zarddddd&icon=0&color=0)](https://visitcount.itsvg.in)
 
